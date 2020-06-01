@@ -1,0 +1,4 @@
+# Created by cloud-init v. 19.3-41-gc4735dd3-0ubuntu1~18.04.1 on Mon, 01 Jun 2020 14:51:32 +0000
+
+# User rules for enfi
+enfi ALL=(ALL) NOPASSWD:ALL
